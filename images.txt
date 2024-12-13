@@ -1,4 +1,4 @@
 nginx
 mysql
-gitlab/gitlab-ce:nightly
+gitlab/gitlab-ce:17.4.6-ce.0
 mysql:8.4.1
